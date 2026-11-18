@@ -28,7 +28,7 @@ Proyecto_Consulta_MySQL/
 │   ├── datos.sql
 │   ├── package.json
 │   ├── package-lock.json
-│   ├── .env
+│   ├── .env.example
 │   └── .gitignore
 │
 ├── frontend/
